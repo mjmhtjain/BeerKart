@@ -1,0 +1,4 @@
+SERVER_PORT=fake_port
+DB_HOST = fake_host
+DB_PORT = fake_port
+DB_NAME = fake_name
