@@ -1,0 +1,25 @@
+{
+  "name": "beerkart",
+  "version": "1.0.0",
+  "description": "ecommerce project for Beer/Alcohol",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjmhtjain/BeerKart.git"
+  },
+  "author": "Mohit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjmhtjain/BeerKart/issues"
+  },
+  "homepage": "https://github.com/mjmhtjain/BeerKart#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "mongoose": "^5.3.1"
+  }
+}
