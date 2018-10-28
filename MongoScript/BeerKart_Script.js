@@ -7,6 +7,11 @@ db.UserDetail.insertMany(
 ]    
 );
 
+
 db.Inventory.insertMany([
-    {productID : 'prod123', productName : 'TesterBeer', productInfo : 'tester beer for testing... Lorem ipdsum dolor sit', productImage : 'something', CPU : 12}
+   {productID : 'prod123', productName : 'Corona', productInfo : 'tester beer for testing... Lorem ipdsum dolor sit', productImage : 'something', CPU : 12},
+   {productID : 'prod123', productName : 'Budweiser', productInfo : 'tester beer for testing... Lorem ipdsum dolor sit', productImage : 'something', CPU : 12},
+   {productID : 'prod123', productName : 'Guinness', productInfo : 'tester beer for testing... Lorem ipdsum dolor sit', productImage : 'something', CPU : 12},
+   {productID : 'prod123', productName : 'Heineken', productInfo : 'tester beer for testing... Lorem ipdsum dolor sit', productImage : 'something', CPU : 12}
 ]);
+
